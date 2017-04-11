@@ -22,6 +22,6 @@ export const Header = glamorous.div({
     color: 'white'
 });
 
-export const Intro = glamorous.div({
+export const Intro = glamorous.p({
     fontSize: 'large',
 });
