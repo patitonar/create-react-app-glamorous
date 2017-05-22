@@ -1,4 +1,4 @@
-import { css } from 'glamor'
+import { css } from 'glamor';
 import glamorous from 'glamorous';
 
 const spinLogoAnimation = css.keyframes({
